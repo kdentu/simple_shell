@@ -1,3 +1,3 @@
 simple shell project 
 collaborator
-Jennifer Ifeanyinwa and olwookun sunday
+Kelvin DEntu and Okeleke
